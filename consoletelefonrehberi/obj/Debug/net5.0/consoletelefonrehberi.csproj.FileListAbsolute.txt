@@ -1,0 +1,16 @@
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\consoletelefonrehberi.exe
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\consoletelefonrehberi.deps.json
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\consoletelefonrehberi.runtimeconfig.json
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\consoletelefonrehberi.runtimeconfig.dev.json
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\consoletelefonrehberi.dll
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\ref\consoletelefonrehberi.dll
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\bin\Debug\net5.0\consoletelefonrehberi.pdb
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.csprojAssemblyReference.cache
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.AssemblyInfoInputs.cache
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.AssemblyInfo.cs
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.csproj.CoreCompileInputs.cache
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.dll
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\ref\consoletelefonrehberi.dll
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.pdb
+C:\Users\ilkr_\Desktop\newclas\deneme\consoletelefonrehberi\obj\Debug\net5.0\consoletelefonrehberi.genruntimeconfig.cache
